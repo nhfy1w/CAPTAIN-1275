@@ -12,8 +12,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg8-5712&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true" height="150"/>
   </p>
 <br>
-  <b>cg8-5712</b> <br>
-  <sub>Beijing No.35 High School · Grade 11</sub> <br>
+  <b>CAPTAIN 1275</b> <br>
+  <sub>LDP-Studio</sub> <br>
   <sub>bj35-dev Team Lead | Aviation & NLP Enthusiast</sub>
   <br><br>
   <img src="https://img.shields.io/badge/Email-5712.cg8Gmail.com-ffb6c1?style=flat-square&logo=gmail">
@@ -27,11 +27,7 @@
 <details>
   <summary><b>🌸 About Me</b></summary>
   <ul>
-    <li>💖 Cute girl, passionate about code & planes</li>
-    <li>🔬 NLP research at <b>BIT</b></li>
-    <li>🛫 Civil aviation, flight sim & ATC fan</li>
-    <li>🌈 Sometimes spotting at PEK & PKX runways</li>
-    <li>🚀 Dream: Pilot or school IT center owner & CS teacher</li>
+    <li>🚀科技为人类服务</li>
   </ul>
 </details>
 
